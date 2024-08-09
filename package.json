@@ -1,0 +1,22 @@
+{
+  "name": "newrelic-native-metrics-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wanteeed/newrelic-native-metrics-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanteeed/newrelic-native-metrics-issue/issues"
+  },
+  "homepage": "https://github.com/wanteeed/newrelic-native-metrics-issue#readme",
+  "dependencies": {
+    "newrelic": "^12.0.0"
+  }
+}
