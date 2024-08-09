@@ -18,5 +18,10 @@
   "homepage": "https://github.com/wanteeed/newrelic-native-metrics-issue#readme",
   "dependencies": {
     "newrelic": "11.23.2"
+  },
+  "overrides": {
+    "newrelic": {
+      "@newrelic/native-metrics": "10.0.1"
+    }
   }
 }
